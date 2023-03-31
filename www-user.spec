@@ -1,6 +1,6 @@
 Name: www-user
 Version: 1.0
-Release: 1
+Release: 2
 Source0: www.sysusers
 Summary: The www user account, shared by various web servers
 URL: https://openmandriva.org/
